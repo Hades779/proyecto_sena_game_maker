@@ -1,0 +1,18 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Player","order":5,"path":"folders/Sprites/Player.yy",},
+    {"name":"Tiles","order":6,"path":"folders/Sprites/Tiles.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"TEXT_ENDING","order":2,"path":"objects/TEXT_ENDING/TEXT_ENDING.yy",},
+    {"name":"Obj_EndingSensor","order":3,"path":"objects/Obj_EndingSensor/Obj_EndingSensor.yy",},
+    {"name":"TEXT_GAMEOVER","order":1,"path":"objects/TEXT_GAMEOVER/TEXT_GAMEOVER.yy",},
+    {"name":"Sprite11","order":9,"path":"sprites/Sprite11/Sprite11.yy",},
+    {"name":"Obj_Room","order":7,"path":"objects/Obj_Room/Obj_Room.yy",},
+    {"name":"Spr_Hazard","order":1,"path":"sprites/Spr_Hazard/Spr_Hazard.yy",},
+    {"name":"spr_charCol","order":2,"path":"sprites/spr_charCol/spr_charCol.yy",},
+    {"name":"Spr_Col","order":3,"path":"sprites/Spr_Col/Spr_Col.yy",},
+    {"name":"Spr_TvEffect","order":4,"path":"sprites/Spr_TvEffect/Spr_TvEffect.yy",},
+    {"name":"Sprite10","order":8,"path":"sprites/Sprite10/Sprite10.yy",},
+  ],
+}
